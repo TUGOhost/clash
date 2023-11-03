@@ -11,14 +11,14 @@ Forked from Dreamacro/clash project
 
 <p align="center">
   <a href="https://github.com/MysticalDevil/clash/actions">
-    <img src="https://img.shields.io/github/workflow/status/Dreamacro/clash/Go?style=flat-square" alt="Github Actions">
+    <img src="https://img.shields.io/github/workflow/status/MysticalDevil/clash/Go?style=flat-square" alt="Github Actions">
   </a>
   <a href="https://goreportcard.com/report/github.com/MysticalDevil/clash">
     <img src="https://goreportcard.com/badge/github.com/MysticalDevil/clash?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/go-mod/go-version/Dreamacro/clash?style=flat-square">
+  <img src="https://img.shields.io/github/go-mod/go-version/MysticalDevil/clash?style=flat-square">
   <a href="https://github.com/MysticalDevil/clash/releases">
-    <img src="https://img.shields.io/github/release/Dreamacro/clash/all.svg?style=flat-square">
+    <img src="https://img.shields.io/github/release/MysticalDevil/clash/all.svg?style=flat-square">
   </a>
   <a href="https://github.com/MysticalDevil/clash/releases/tag/premium">
     <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
@@ -61,4 +61,4 @@ If you want to build an application that uses clash as a library, check out the 
 
 This software is released under the GPL-3.0 license.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FDreamacro%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FDreamacro%2Fclash?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMysticalDevil%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMysticalDevil%2Fclash?ref=badge_large)
