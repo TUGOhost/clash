@@ -1,8 +1,8 @@
 package inbound
 
 import (
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 // PacketAdapter is a UDP Packet adapter for socks/redir/tun

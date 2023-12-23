@@ -9,9 +9,9 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/queue"
-	"github.com/MysticalDevil/clash/component/dialer"
-	C "github.com/MysticalDevil/clash/constant"
+	"github.com/TUOGhost/clash/common/queue"
+	"github.com/TUGOhost/clash/component/dialer"
+	C "github.com/TUGOhost/clash/constant"
 
 	"go.uber.org/atomic"
 )

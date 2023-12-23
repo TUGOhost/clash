@@ -4,8 +4,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/MysticalDevil/clash/component/mmdb"
-	"github.com/MysticalDevil/clash/component/trie"
+	"github.com/TUGOhost/clash/component/mmdb"
+	"github.com/TUGOhost/clash/component/trie"
 )
 
 type fallbackIPFilter interface {

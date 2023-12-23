@@ -8,9 +8,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter"
-	C "github.com/MysticalDevil/clash/constant"
-	types "github.com/MysticalDevil/clash/constant/provider"
+	"github.com/TUGOhost/clash/adapter"
+	C "github.com/TUGOhost/clash/constant"
+	types "github.com/TUGOhost/clash/constant/provider"
 
 	"gopkg.in/yaml.v3"
 )

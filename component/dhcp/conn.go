@@ -5,7 +5,7 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/MysticalDevil/clash/component/dialer"
+	"github.com/TUGOhost/clash/component/dialer"
 )
 
 func ListenDHCPClient(ctx context.Context, ifaceName string) (net.PacketConn, error) {

@@ -3,7 +3,7 @@ package protocol
 import (
 	"net"
 
-	"github.com/MysticalDevil/clash/common/pool"
+	"github.com/TUGOhost/clash/common/pool"
 )
 
 type PacketConn struct {

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MysticalDevil/clash/component/trie"
+	"github.com/TUGOhost/clash/component/trie"
 )
 
 var (

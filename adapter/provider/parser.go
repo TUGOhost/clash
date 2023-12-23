@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/structure"
-	C "github.com/MysticalDevil/clash/constant"
-	types "github.com/MysticalDevil/clash/constant/provider"
+	"github.com/TUGOhost/clash/common/structure"
+	C "github.com/TUGOhost/clash/constant"
+	types "github.com/TUGOhost/clash/constant/provider"
 )
 
 var errVehicleType = errors.New("unsupport vehicle type")

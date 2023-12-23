@@ -5,9 +5,9 @@ import (
 	"net"
 	"sync"
 
-	"github.com/MysticalDevil/clash/common/cache"
-	"github.com/MysticalDevil/clash/component/profile/cachefile"
-	"github.com/MysticalDevil/clash/component/trie"
+	"github.com/TUGOhost/clash/common/cache"
+	"github.com/TUGOhost/clash/component/profile/cachefile"
+	"github.com/TUGOhost/clash/component/trie"
 )
 
 type store interface {

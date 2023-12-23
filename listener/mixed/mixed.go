@@ -4,13 +4,13 @@ import (
 	"net"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/cache"
-	N "github.com/MysticalDevil/clash/common/net"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/listener/http"
-	"github.com/MysticalDevil/clash/listener/socks"
-	"github.com/MysticalDevil/clash/transport/socks4"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/common/cache"
+	N "github.com/TUGOhost/clash/common/net"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/listener/http"
+	"github.com/TUGOhost/clash/listener/socks"
+	"github.com/TUGOhost/clash/transport/socks4"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 type Listener struct {

@@ -8,9 +8,9 @@ import (
 	"net"
 	"sync"
 
-	"github.com/MysticalDevil/clash/common/pool"
-	"github.com/MysticalDevil/clash/transport/shadowsocks/shadowaead"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/common/pool"
+	"github.com/TUGOhost/clash/transport/shadowsocks/shadowaead"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 const (

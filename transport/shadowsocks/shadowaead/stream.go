@@ -7,7 +7,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/MysticalDevil/clash/common/pool"
+	"github.com/TUGOhost/clash/common/pool"
 )
 
 const (

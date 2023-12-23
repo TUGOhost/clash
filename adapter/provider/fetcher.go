@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"time"
 
-	types "github.com/MysticalDevil/clash/constant/provider"
-	"github.com/MysticalDevil/clash/log"
+	types "github.com/TUGOhost/clash/constant/provider"
+	"github.com/TUGOhost/clash/log"
 )
 
 var (

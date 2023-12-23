@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	C "github.com/MysticalDevil/clash/constant"
+	C "github.com/TUGOhost/clash/constant"
 )
 
 type Process struct {

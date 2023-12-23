@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"net"
 
-	"github.com/MysticalDevil/clash/common/pool"
+	"github.com/TUGOhost/clash/common/pool"
 )
 
 func init() {

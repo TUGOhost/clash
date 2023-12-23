@@ -9,12 +9,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/cache"
-	"github.com/MysticalDevil/clash/common/picker"
-	"github.com/MysticalDevil/clash/component/fakeip"
-	"github.com/MysticalDevil/clash/component/resolver"
-	"github.com/MysticalDevil/clash/component/trie"
-	C "github.com/MysticalDevil/clash/constant"
+	"github.com/TUGOhost/clash/common/cache"
+	"github.com/TUGOhost/clash/common/picker"
+	"github.com/TUGOhost/clash/component/fakeip"
+	"github.com/TUGOhost/clash/component/resolver"
+	"github.com/TUGOhost/clash/component/trie"
+	C "github.com/TUGOhost/clash/constant"
 
 	D "github.com/miekg/dns"
 	"golang.org/x/sync/singleflight"

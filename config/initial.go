@@ -6,13 +6,13 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/MysticalDevil/clash/component/mmdb"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/component/mmdb"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/log"
 )
 
 func downloadMMDB(path string) (err error) {
-	resp, err := http.Get("https://cdn.jsdelivr.net/gh/MysticalDevil/maxmind-geoip@release/Country.mmdb")
+	resp, err := http.Get("https://cdn.jsdelivr.net/gh/TUGOhost/maxmind-geoip@release/Country.mmdb")
 	if err != nil {
 		return
 	}

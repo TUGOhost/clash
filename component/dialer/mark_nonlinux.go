@@ -6,7 +6,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/log"
 )
 
 var printMarkWarnOnce sync.Once

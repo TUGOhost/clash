@@ -7,11 +7,11 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter"
-	"github.com/MysticalDevil/clash/adapter/outboundgroup"
-	"github.com/MysticalDevil/clash/component/profile/cachefile"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/tunnel"
+	"github.com/TUGOhost/clash/adapter"
+	"github.com/TUGOhost/clash/adapter/outboundgroup"
+	"github.com/TUGOhost/clash/component/profile/cachefile"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/tunnel"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"

@@ -3,7 +3,7 @@ package nat
 import (
 	"sync"
 
-	C "github.com/MysticalDevil/clash/constant"
+	C "github.com/TUGOhost/clash/constant"
 )
 
 type Table struct {

@@ -6,7 +6,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 const (

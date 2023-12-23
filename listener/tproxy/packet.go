@@ -4,7 +4,7 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/MysticalDevil/clash/common/pool"
+	"github.com/TUGOhost/clash/common/pool"
 )
 
 type packet struct {

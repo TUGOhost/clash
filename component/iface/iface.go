@@ -5,7 +5,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/singledo"
+	"github.com/TUGOhost/clash/common/singledo"
 )
 
 type Interface struct {

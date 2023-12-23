@@ -9,11 +9,11 @@ import (
 	"runtime"
 	"syscall"
 
-	"github.com/MysticalDevil/clash/config"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/hub"
-	"github.com/MysticalDevil/clash/hub/executor"
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/config"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/hub"
+	"github.com/TUGOhost/clash/hub/executor"
+	"github.com/TUGOhost/clash/log"
 
 	"go.uber.org/automaxprocs/maxprocs"
 )

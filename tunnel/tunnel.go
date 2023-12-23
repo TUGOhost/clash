@@ -9,15 +9,15 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter/inbound"
-	"github.com/MysticalDevil/clash/component/nat"
-	P "github.com/MysticalDevil/clash/component/process"
-	"github.com/MysticalDevil/clash/component/resolver"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/constant/provider"
-	icontext "github.com/MysticalDevil/clash/context"
-	"github.com/MysticalDevil/clash/log"
-	"github.com/MysticalDevil/clash/tunnel/statistic"
+	"github.com/TUGOhost/clash/adapter/inbound"
+	"github.com/TUGOhost/clash/component/nat"
+	P "github.com/TUGOhost/clash/component/process"
+	"github.com/TUGOhost/clash/component/resolver"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/constant/provider"
+	icontext "github.com/TUGOhost/clash/context"
+	"github.com/TUGOhost/clash/log"
+	"github.com/TUGOhost/clash/tunnel/statistic"
 )
 
 var (

@@ -1,4 +1,4 @@
-module github.com/MysticalDevil/clash
+module github.com/TUGOhost/clash
 
 go 1.18
 

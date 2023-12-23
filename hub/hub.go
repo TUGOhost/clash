@@ -1,9 +1,9 @@
 package hub
 
 import (
-	"github.com/MysticalDevil/clash/config"
-	"github.com/MysticalDevil/clash/hub/executor"
-	"github.com/MysticalDevil/clash/hub/route"
+	"github.com/TUGOhost/clash/config"
+	"github.com/TUGOhost/clash/hub/executor"
+	"github.com/TUGOhost/clash/hub/route"
 )
 
 type Option func(*config.Config)

@@ -5,12 +5,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/cache"
-	"github.com/MysticalDevil/clash/component/fakeip"
-	"github.com/MysticalDevil/clash/component/trie"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/context"
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/common/cache"
+	"github.com/TUGOhost/clash/component/fakeip"
+	"github.com/TUGOhost/clash/component/trie"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/context"
+	"github.com/TUGOhost/clash/log"
 
 	D "github.com/miekg/dns"
 )

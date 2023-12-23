@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter/outbound"
+	"github.com/TUGOhost/clash/adapter/outbound"
 
 	"github.com/docker/docker/api/types/container"
 	"github.com/stretchr/testify/require"

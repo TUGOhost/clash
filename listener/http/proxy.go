@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter/inbound"
-	"github.com/MysticalDevil/clash/common/cache"
-	N "github.com/MysticalDevil/clash/common/net"
-	C "github.com/MysticalDevil/clash/constant"
-	authStore "github.com/MysticalDevil/clash/listener/auth"
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/adapter/inbound"
+	"github.com/TUGOhost/clash/common/cache"
+	N "github.com/TUGOhost/clash/common/net"
+	C "github.com/TUGOhost/clash/constant"
+	authStore "github.com/TUGOhost/clash/listener/auth"
+	"github.com/TUGOhost/clash/log"
 )
 
 func HandleConn(c net.Conn, in chan<- C.ConnContext, cache *cache.Cache) {

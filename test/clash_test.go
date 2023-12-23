@@ -15,10 +15,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter/outbound"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/hub/executor"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/adapter/outbound"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/hub/executor"
+	"github.com/TUGOhost/clash/transport/socks5"
 
 	"github.com/docker/docker/api/types"
 	"github.com/docker/docker/client"

@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/MysticalDevil/clash/constant/provider"
-	"github.com/MysticalDevil/clash/tunnel"
+	"github.com/TUGOhost/clash/constant/provider"
+	"github.com/TUGOhost/clash/tunnel"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/render"

@@ -8,10 +8,10 @@ import (
 	"strings"
 	"time"
 
-	C "github.com/MysticalDevil/clash/constant"
-	_ "github.com/MysticalDevil/clash/constant/mime"
-	"github.com/MysticalDevil/clash/log"
-	"github.com/MysticalDevil/clash/tunnel/statistic"
+	C "github.com/TUGOhost/clash/constant"
+	_ "github.com/TUGOhost/clash/constant/mime"
+	"github.com/TUGOhost/clash/log"
+	"github.com/TUGOhost/clash/tunnel/statistic"
 
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/cors"

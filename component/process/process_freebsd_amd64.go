@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/log"
 )
 
 // store process name for when dealing with multiple PROCESS-NAME rules

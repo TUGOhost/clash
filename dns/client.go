@@ -7,8 +7,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/MysticalDevil/clash/component/dialer"
-	"github.com/MysticalDevil/clash/component/resolver"
+	"github.com/TUGOhost/clash/component/dialer"
+	"github.com/TUGOhost/clash/component/resolver"
 
 	D "github.com/miekg/dns"
 )

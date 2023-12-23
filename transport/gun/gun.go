@@ -17,8 +17,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/pool"
-	C "github.com/MysticalDevil/clash/constant"
+	"github.com/TUGOhost/clash/common/pool"
+	C "github.com/TUGOhost/clash/constant"
 
 	"go.uber.org/atomic"
 	"golang.org/x/net/http2"

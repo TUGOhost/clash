@@ -3,12 +3,12 @@ package socks
 import (
 	"net"
 
-	"github.com/MysticalDevil/clash/adapter/inbound"
-	"github.com/MysticalDevil/clash/common/pool"
-	"github.com/MysticalDevil/clash/common/sockopt"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/log"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/adapter/inbound"
+	"github.com/TUGOhost/clash/common/pool"
+	"github.com/TUGOhost/clash/common/sockopt"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/log"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 type UDPListener struct {

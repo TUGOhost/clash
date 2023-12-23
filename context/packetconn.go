@@ -3,7 +3,7 @@ package context
 import (
 	"net"
 
-	C "github.com/MysticalDevil/clash/constant"
+	C "github.com/TUGOhost/clash/constant"
 
 	"github.com/gofrs/uuid"
 )

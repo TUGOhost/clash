@@ -5,10 +5,10 @@ import (
 	"net"
 	"time"
 
-	N "github.com/MysticalDevil/clash/common/net"
-	"github.com/MysticalDevil/clash/common/pool"
-	"github.com/MysticalDevil/clash/component/resolver"
-	C "github.com/MysticalDevil/clash/constant"
+	N "github.com/TUGOhost/clash/common/net"
+	"github.com/TUGOhost/clash/common/pool"
+	"github.com/TUGOhost/clash/component/resolver"
+	C "github.com/TUGOhost/clash/constant"
 )
 
 func handleUDPToRemote(packet C.UDPPacket, pc C.PacketConn, metadata *C.Metadata) error {

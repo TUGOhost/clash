@@ -9,9 +9,9 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/MysticalDevil/clash/component/dialer"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/component/dialer"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 type Socks5 struct {

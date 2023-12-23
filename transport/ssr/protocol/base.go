@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/pool"
-	"github.com/MysticalDevil/clash/log"
-	"github.com/MysticalDevil/clash/transport/shadowsocks/core"
+	"github.com/TUGOhost/clash/common/pool"
+	"github.com/TUGOhost/clash/log"
+	"github.com/TUGOhost/clash/transport/shadowsocks/core"
 )
 
 type Base struct {

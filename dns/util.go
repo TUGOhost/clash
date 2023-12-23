@@ -5,8 +5,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/cache"
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/common/cache"
+	"github.com/TUGOhost/clash/log"
 
 	D "github.com/miekg/dns"
 )

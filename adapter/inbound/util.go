@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 func parseSocksAddr(target socks5.Addr) *C.Metadata {

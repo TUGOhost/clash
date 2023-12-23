@@ -3,9 +3,9 @@ package adapter
 import (
 	"fmt"
 
-	"github.com/MysticalDevil/clash/adapter/outbound"
-	"github.com/MysticalDevil/clash/common/structure"
-	C "github.com/MysticalDevil/clash/constant"
+	"github.com/TUGOhost/clash/adapter/outbound"
+	"github.com/TUGOhost/clash/common/structure"
+	C "github.com/TUGOhost/clash/constant"
 )
 
 func ParseProxy(mapping map[string]any) (C.Proxy, error) {

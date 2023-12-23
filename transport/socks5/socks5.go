@@ -9,7 +9,7 @@ import (
 	"net/netip"
 	"strconv"
 
-	"github.com/MysticalDevil/clash/component/auth"
+	"github.com/TUGOhost/clash/component/auth"
 )
 
 // Error represents a SOCKS error

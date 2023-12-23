@@ -4,10 +4,10 @@ import (
 	"net"
 	"net/netip"
 
-	"github.com/MysticalDevil/clash/adapter/inbound"
-	"github.com/MysticalDevil/clash/common/pool"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/adapter/inbound"
+	"github.com/TUGOhost/clash/common/pool"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 type UDPListener struct {

@@ -3,9 +3,9 @@ package inbound
 import (
 	"net"
 
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/context"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/context"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 // NewSocket receive TCP inbound and return ConnContext

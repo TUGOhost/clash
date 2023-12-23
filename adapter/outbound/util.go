@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/MysticalDevil/clash/component/resolver"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/component/resolver"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 func tcpKeepAlive(c net.Conn) {

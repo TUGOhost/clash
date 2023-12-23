@@ -4,12 +4,12 @@ import (
 	"io"
 	"net"
 
-	"github.com/MysticalDevil/clash/adapter/inbound"
-	N "github.com/MysticalDevil/clash/common/net"
-	C "github.com/MysticalDevil/clash/constant"
-	authStore "github.com/MysticalDevil/clash/listener/auth"
-	"github.com/MysticalDevil/clash/transport/socks4"
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/adapter/inbound"
+	N "github.com/TUGOhost/clash/common/net"
+	C "github.com/TUGOhost/clash/constant"
+	authStore "github.com/TUGOhost/clash/listener/auth"
+	"github.com/TUGOhost/clash/transport/socks4"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 type Listener struct {

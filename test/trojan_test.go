@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MysticalDevil/clash/adapter/outbound"
-	C "github.com/MysticalDevil/clash/constant"
+	"github.com/TUGOhost/clash/adapter/outbound"
+	C "github.com/TUGOhost/clash/constant"
 
 	"github.com/docker/docker/api/types/container"
 	"github.com/stretchr/testify/require"

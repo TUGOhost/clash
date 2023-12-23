@@ -12,10 +12,10 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/MysticalDevil/clash/common/pool"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/socks5"
-	"github.com/MysticalDevil/clash/transport/vmess"
+	"github.com/TUGOhost/clash/common/pool"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/socks5"
+	"github.com/TUGOhost/clash/transport/vmess"
 )
 
 const (

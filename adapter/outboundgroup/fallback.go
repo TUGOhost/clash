@@ -4,11 +4,11 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/MysticalDevil/clash/adapter/outbound"
-	"github.com/MysticalDevil/clash/common/singledo"
-	"github.com/MysticalDevil/clash/component/dialer"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/constant/provider"
+	"github.com/TUGOhost/clash/adapter/outbound"
+	"github.com/TUGOhost/clash/common/singledo"
+	"github.com/TUGOhost/clash/component/dialer"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/constant/provider"
 )
 
 type Fallback struct {

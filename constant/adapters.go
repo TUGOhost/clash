@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/MysticalDevil/clash/component/dialer"
+	"github.com/TUGOhost/clash/component/dialer"
 )
 
 // Adapter Type

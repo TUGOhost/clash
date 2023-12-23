@@ -3,7 +3,7 @@ package fakeip
 import (
 	"net"
 
-	"github.com/MysticalDevil/clash/common/cache"
+	"github.com/TUGOhost/clash/common/cache"
 )
 
 type memoryStore struct {

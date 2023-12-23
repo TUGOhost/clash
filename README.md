@@ -3,24 +3,24 @@
 Forked from Dreamacro/clash project
 
 <h1 align="center">
-  <img src="https://github.com/MysticalDevil/clash/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://github.com/TUGOhost/clash/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
 <h4 align="center">A rule-based tunnel in Go.</h4>
 
 <p align="center">
-  <a href="https://github.com/MysticalDevil/clash/actions">
-    <img src="https://img.shields.io/github/workflow/status/MysticalDevil/clash/Go?style=flat-square" alt="Github Actions">
+  <a href="https://github.com/TUGOhost/clash/actions">
+    <img src="https://img.shields.io/github/workflow/status/TUGOhost/clash/Go?style=flat-square" alt="Github Actions">
   </a>
-  <a href="https://goreportcard.com/report/github.com/MysticalDevil/clash">
-    <img src="https://goreportcard.com/badge/github.com/MysticalDevil/clash?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/TUGOhost/clash">
+    <img src="https://goreportcard.com/badge/github.com/TUGOhost/clash?style=flat-square">
   </a>
-  <img src="https://img.shields.io/github/go-mod/go-version/MysticalDevil/clash?style=flat-square">
-  <a href="https://github.com/MysticalDevil/clash/releases">
-    <img src="https://img.shields.io/github/release/MysticalDevil/clash/all.svg?style=flat-square">
+  <img src="https://img.shields.io/github/go-mod/go-version/TUGOhost/clash?style=flat-square">
+  <a href="https://github.com/TUGOhost/clash/releases">
+    <img src="https://img.shields.io/github/release/TUGOhost/clash/all.svg?style=flat-square">
   </a>
-  <a href="https://github.com/MysticalDevil/clash/releases/tag/premium">
+  <a href="https://github.com/TUGOhost/clash/releases/tag/premium">
     <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
   </a>
 </p>
@@ -38,18 +38,18 @@ Forked from Dreamacro/clash project
 
 ## Premium Features
 
-- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/MysticalDevil/clash/wiki/premium-core-features#tun-device)
-- Match your tunnel by [Script](https://github.com/MysticalDevil/clash/wiki/premium-core-features#script)
-- [Rule Provider](https://github.com/MysticalDevil/clash/wiki/premium-core-features#rule-providers)
+- TUN mode on macOS, Linux and Windows. [Doc](https://github.com/TUGOhost/clash/wiki/premium-core-features#tun-device)
+- Match your tunnel by [Script](https://github.com/TUGOhost/clash/wiki/premium-core-features#script)
+- [Rule Provider](https://github.com/TUGOhost/clash/wiki/premium-core-features#rule-providers)
 
 ## Getting Started
-Documentations are now moved to [GitHub Wiki](https://github.com/MysticalDevil/clash/wiki).
+Documentations are now moved to [GitHub Wiki](https://github.com/TUGOhost/clash/wiki).
 
 ## Premium Release
-[Release](https://github.com/MysticalDevil/clash/releases/tag/premium)
+[Release](https://github.com/TUGOhost/clash/releases/tag/premium)
 
 ## Development
-If you want to build an application that uses clash as a library, check out the the [GitHub Wiki](https://github.com/MysticalDevil/clash/wiki/use-clash-as-a-library)
+If you want to build an application that uses clash as a library, check out the the [GitHub Wiki](https://github.com/TUGOhost/clash/wiki/use-clash-as-a-library)
 
 ## Credits
 
@@ -61,4 +61,4 @@ If you want to build an application that uses clash as a library, check out the 
 
 This software is released under the GPL-3.0 license.
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FMysticalDevil%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FMysticalDevil%2Fclash?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTUGOhost%2Fclash.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTUGOhost%2Fclash?ref=badge_large)

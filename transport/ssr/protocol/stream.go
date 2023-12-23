@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"net"
 
-	"github.com/MysticalDevil/clash/common/pool"
+	"github.com/TUGOhost/clash/common/pool"
 )
 
 type Conn struct {

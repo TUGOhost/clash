@@ -4,8 +4,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/MysticalDevil/clash/common/cache"
-	C "github.com/MysticalDevil/clash/constant"
+	"github.com/TUGOhost/clash/common/cache"
+	C "github.com/TUGOhost/clash/constant"
 )
 
 type Listener struct {

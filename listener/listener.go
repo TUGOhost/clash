@@ -6,14 +6,14 @@ import (
 	"strconv"
 	"sync"
 
-	"github.com/MysticalDevil/clash/adapter/inbound"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/listener/http"
-	"github.com/MysticalDevil/clash/listener/mixed"
-	"github.com/MysticalDevil/clash/listener/redir"
-	"github.com/MysticalDevil/clash/listener/socks"
-	"github.com/MysticalDevil/clash/listener/tproxy"
-	"github.com/MysticalDevil/clash/log"
+	"github.com/TUGOhost/clash/adapter/inbound"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/listener/http"
+	"github.com/TUGOhost/clash/listener/mixed"
+	"github.com/TUGOhost/clash/listener/redir"
+	"github.com/TUGOhost/clash/listener/socks"
+	"github.com/TUGOhost/clash/listener/tproxy"
+	"github.com/TUGOhost/clash/log"
 )
 
 var (

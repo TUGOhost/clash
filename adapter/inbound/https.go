@@ -4,8 +4,8 @@ import (
 	"net"
 	"net/http"
 
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/context"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/context"
 )
 
 // NewHTTPS receive CONNECT request and return ConnContext

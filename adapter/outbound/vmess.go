@@ -10,11 +10,11 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/MysticalDevil/clash/component/dialer"
-	"github.com/MysticalDevil/clash/component/resolver"
-	C "github.com/MysticalDevil/clash/constant"
-	"github.com/MysticalDevil/clash/transport/gun"
-	"github.com/MysticalDevil/clash/transport/vmess"
+	"github.com/TUGOhost/clash/component/dialer"
+	"github.com/TUGOhost/clash/component/resolver"
+	C "github.com/TUGOhost/clash/constant"
+	"github.com/TUGOhost/clash/transport/gun"
+	"github.com/TUGOhost/clash/transport/vmess"
 
 	"golang.org/x/net/http2"
 )

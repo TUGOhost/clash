@@ -1,7 +1,7 @@
 package provider
 
 import (
-	"github.com/MysticalDevil/clash/constant"
+	"github.com/TUGOhost/clash/constant"
 )
 
 // Vehicle Type

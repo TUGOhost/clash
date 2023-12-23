@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/MysticalDevil/clash/transport/socks5"
+	"github.com/TUGOhost/clash/transport/socks5"
 )
 
 func parserPacket(c net.Conn) (socks5.Addr, error) {

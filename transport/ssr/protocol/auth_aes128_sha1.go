@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/MysticalDevil/clash/common/pool"
-	"github.com/MysticalDevil/clash/log"
-	"github.com/MysticalDevil/clash/transport/ssr/tools"
+	"github.com/TUGOhost/clash/common/pool"
+	"github.com/TUGOhost/clash/log"
+	"github.com/TUGOhost/clash/transport/ssr/tools"
 )
 
 type (
