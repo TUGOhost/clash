@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/TUOGhost/clash/common/queue"
+	"github.com/TUGOhost/clash/common/queue"
 	"github.com/TUGOhost/clash/component/dialer"
 	C "github.com/TUGOhost/clash/constant"
 
